@@ -2,6 +2,10 @@
 
 This is a project originally for a Embedded System Laboratory course at NYCU.
 
+This game runs on an embedded system built by Raspberry Pi, and the game algorithm is designed by using the Python and Pygame module.
+
+Our game's feature is that it uses webcams and OpenCV to detect players' hands so they can play the game without holding any detector.
+
 ## Demo
 
 <p align="left">
