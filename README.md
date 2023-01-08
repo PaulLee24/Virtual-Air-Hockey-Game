@@ -6,7 +6,7 @@ This game runs on an embedded system built by Raspberry Pi, and the game algorit
 
 ## Demo
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/PaulLee24/Virtual-Air-Hockey-Game/blob/main/image/mode.png" width=70% height=70%>
 </p>
 
